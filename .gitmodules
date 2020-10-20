@@ -1,0 +1,7 @@
+[submodule "mechanical-keyboard"]
+	path = mechanical-keyboard
+	url = https://github.com/help-14/mechanical-keyboard.git
+[submodule "main-branch"]
+	path = main-branch
+	url = https://github.com/help-14/mechanical-keyboard.git
+	branch = master
